@@ -1,0 +1,9 @@
+{
+  "name": "ShiftPay – Work Hours Tracker",
+  "short_name": "ShiftPay",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#111827",
+  "description": "Track shifts, breaks and weekly pay."
+}
